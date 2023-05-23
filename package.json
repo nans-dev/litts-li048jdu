@@ -1,0 +1,12 @@
+{
+  "name": "@wcd/nans-dev.litts-li048jdu",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 9v4ozENl5SmK6sHuAiLa --open"
+  },
+  "dependencies": {}
+}
